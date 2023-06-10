@@ -1,4 +1,4 @@
-# flutter_application_8
+# Push-up-Counter
 
 A new Flutter project.
 
